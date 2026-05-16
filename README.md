@@ -7,9 +7,13 @@ This project analyzes Netflix’s content library using Power BI to uncover insi
 🎯 Objectives
 
 -Analyze distribution of Movies vs TV Shows
+
 -Identify top countries producing Netflix content
+
 -Understand rating distribution across content
+
 -Explore content release trends over time
+
 -Build an interactive Power BI dashboard
 
 📊 Key Insights
