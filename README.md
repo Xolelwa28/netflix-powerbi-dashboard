@@ -86,7 +86,7 @@ The dataset contains Netflix titles including:
 
 ## 👤 Author
 
-Xolelwa
+Xolelwa Dungayezi
 
 BSc Computing (UNISA)
 
