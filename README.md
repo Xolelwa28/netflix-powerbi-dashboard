@@ -1,90 +1,90 @@
 🎬 Netflix Data Analysis Dashboard (Power BI)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes Netflix’s content library using Power BI to uncover insights about content distribution, ratings, countries, and trends over time. The goal is to transform raw Netflix dataset information into an interactive and visually clear dashboard for business insights.
 
-🎯 Objectives
+## 🎯 Objectives
 
--Analyze distribution of Movies vs TV Shows
+- Analyze distribution of Movies vs TV Shows
 
--Identify top countries producing Netflix content
+- Identify top countries producing Netflix content
 
--Understand rating distribution across content
+- Understand rating distribution across content
 
--Explore content release trends over time
+- Explore content release trends over time
 
--Build an interactive Power BI dashboard
+- Build an interactive Power BI dashboard
 
-📊 Key Insights
+## 📊 Key Insights
 
--Majority of Netflix content is focused on movies vs TV shows
+- Majority of Netflix content is focused on movies vs TV shows
 
--Certain countries dominate content production
+- Certain countries dominate content production
 
--TV-MA and TV-14 are the most common ratings
+- TV-MA and TV-14 are the most common ratings
 
--Content releases increased significantly in recent years
+- Content releases increased significantly in recent years
 
-🛠 Tools Used
+## 🛠 Tools Used
 
--Power BI Desktop
+- Power BI Desktop
 
--Microsoft Excel / CSV Dataset
+- Microsoft Excel / CSV Dataset
 
--Data Cleaning & Transformation (Power Query)
+- Data Cleaning & Transformation (Power Query)
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset contains Netflix titles including:
 
--Show ID
+- Show ID
 
--Title
+- Title
 
--Type (Movie / TV Show)
+- Type (Movie / TV Show)
 
--Country
+- Country
 
--Rating
+- Rating
 
--Release Year
+- Release Year
 
--Genre
+- Genre
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
--Interactive filters (Type, Country, Rating)
+- Interactive filters (Type, Country, Rating)
 
--Content distribution visuals
+- Content distribution visuals
 
--Time-based trend analysis
+- Time-based trend analysis
 
--Rating breakdown
+- Rating breakdown
 
--Country-wise content analysis
+- Country-wise analysis of Netlix content distribution
 
-🧹 Data Cleaning Steps
+## 🧹 Data Cleaning Steps
 
--Removed duplicate and null values
+- Removed duplicate and null values
 
--Standardized country and rating fields
+- Standardized country and rating fields
 
--Converted dataset into usable Power BI format
+- Converted dataset into usable Power BI format
 
--Structured data for visualization
+- Structured data for visualization
 
-🚀 Key Learnings
+## 🚀 Key Learnings
 
--Data cleaning is essential before visualization
+- Data cleaning is essential before visualization
 
--Proper sorting improves insight clarity
+- Proper sorting improves insight clarity
 
--Clear titles significantly improve dashboard readability
+- Clear titles significantly improve dashboard readability
 
--Visualization design impacts storytelling
+- Visualization design impacts storytelling
 
-👤 Author
+## 👤 Author
 
 Xolelwa
 
